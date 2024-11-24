@@ -8,7 +8,7 @@
 
 | **🔤 Name**             | **📏 Version** | **📦 Size**  | **🖥️ Supported OS**   | **🆔 Package ID**      | **📥 Downloads** | **🏷️ Category**  | **🕒 Last Update** |
 |-------------------------|----------------|--------------|------------------------|------------------------|------------------|------------------|--------------------|
-| Oh My Waifu   | v4.2.7         | 75 MB        | Android 5.0+           | com.ohmywaifu.game     | 1M+              | Anime, Casual    | 2024-11-25         |
+| Oh My Waifu   | v4.2.7         | 75 MB        | Android 5.0+           | com.ohmywaifu.game     | 1M+              | Anime, Casual    | 2024-11-10         |
 
 ![exploring-the-world-of-oh-my-waifu](https://github.com/user-attachments/assets/564b379b-3642-43fd-b6f1-ceee67543ce7)
 
